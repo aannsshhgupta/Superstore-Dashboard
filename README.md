@@ -1,7 +1,3 @@
-Sure! Here's a refined version of your Sales Analysis & Forecasting Dashboard project summary in approximately 300 words:
-
----
-
 🚀 **Sales Analysis & Forecasting Dashboard in Power BI**
 
 I recently completed a comprehensive **Sales Analysis & Forecasting Dashboard** project using **Power BI**, leveraging the **Superstore Sales Dataset**. This project aimed to transform raw sales data into a dynamic, interactive dashboard that provides deep insights into business performance, customer behavior, and future trends.
