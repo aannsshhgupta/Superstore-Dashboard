@@ -13,6 +13,7 @@ I recently completed a comprehensive **Sales Analysis & Forecasting Dashboard** 
 * **15-Day Sales Forecasting:** Used time series forecasting to anticipate short-term demand, assisting in inventory and marketing planning.
 
 📁 **Dataset Used:** Superstore Sales (in both Excel and CSV formats)
+
 🛠️ **Tools & Skills Applied:** Power BI, Data Cleaning, Data Modeling, DAX, Time Series Forecasting
 
 This project significantly enhanced my skills in **data visualization, business intelligence, and data storytelling**. It highlights the power of turning raw data into strategic insights that drive better decision-making. The dashboard is tailored to be user-friendly and interactive, ideal for business managers seeking quick, data-driven decisions.
